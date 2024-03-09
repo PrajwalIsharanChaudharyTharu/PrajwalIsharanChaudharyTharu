@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prajwal-isharan-chaudhary-tharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-isharan-chaudhary-tharu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prajwal isharan chaudhary tharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal isharan chaudhary tharu" height="30" width="40" /></a>
 <a href="https://fb.com/pro-zo oll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pro-zo oll" height="30" width="40" /></a>
 <a href="https://instagram.com/prajwal_ch107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwal_ch107" height="30" width="40" /></a>
 </p>
